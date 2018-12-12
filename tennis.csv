@@ -1,0 +1,15 @@
+row,outlook,temp,humidity,wind,play
+2,Sunny,Hot,High,Weak,No
+3,Sunny,Hot,High,Strong,No
+4,Overcast,Hot,High,Weak,Yes
+5,Rain,Mild,High,Weak,Yes
+6,Rain,Cool,Normal,Weak,Yes
+7,Rain,Cool,Normal,Strong,No
+8,Overcast,Cool,Normal,Strong,Yes
+9,Sunny,Mild,High,Weak,No
+10,Sunny,Cool,Normal,Weak,Yes
+11,Rain,Mild,Normal,Weak,Yes
+12,Sunny,Mild,Normal,Strong,Yes
+13,Overcast,Mild,High,Strong,Yes
+14,Overcast,Hot,Normal,Weak,Yes
+15,Rain,Mild,High,Strong,No
